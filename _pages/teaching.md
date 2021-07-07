@@ -13,7 +13,7 @@ title: "Teaching"
 ### Foundations of Statistical Inference. Fredrik Sävje. (Graduate, Spring 2019.)
 
 
-<img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc503.png" width="200" height="200" />
+<img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc503.png" width="500" />
 
 ### Capitalism in America. Douglas Rae. (Undergraduate/graduate, Fall 2019.)
 
