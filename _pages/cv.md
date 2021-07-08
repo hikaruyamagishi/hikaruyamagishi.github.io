@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://docs.google.com/gview?url=https://hikaruyamagishi.github.io/files/yamagishi_cv.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://hikaruyamagishi.github.io/files/yamagishi_cv.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
 
 
-Download my CV as a PDF [here](/files/yamagishi_cv.pdf).
+Download my academic CV as a PDF [here](/files/yamagishi_cv.pdf).
