@@ -3,6 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
+
 As Lab/Section Leader:
 ======
 
