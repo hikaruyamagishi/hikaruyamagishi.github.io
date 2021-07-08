@@ -2,7 +2,7 @@
 title: "Theory of Statistics"
 collection: teaching
 type: "Undergraduate/graduate course"
-permalink: /teaching/05-teaching
+permalink: /teaching/202001-teaching2
 venue: "Yale University (in-person and remote), Zhou Fan"
 date: 2020-01-01
 location: "In-person and remote"

@@ -2,7 +2,7 @@
 title: "Introduction to International Political Economy"
 collection: teaching
 type: "Undergraduate/graduate course"
-permalink: /teaching/06-teaching
+permalink: /teaching/201809-teaching
 venue: "Yale University (in-person), Didac Queralt"
 date: 2018-09-01
 location: "In-person"

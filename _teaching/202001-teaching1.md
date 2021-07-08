@@ -2,7 +2,7 @@
 title: "Debating Globalization"
 collection: teaching
 type: "Undergraduate/graduate course"
-permalink: /teaching/04-teaching
+permalink: /teaching/202001-teaching1
 venue: "Yale University (in-person and remote), Ernesto Zedillo"
 date: 2020-01-01
 location: "In-person and remote"
