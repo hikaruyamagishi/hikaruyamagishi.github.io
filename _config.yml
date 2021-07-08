@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hikaru Yamagishi"
-  avatar           : "" #profile.png
+  avatar           : "/files/yamagishi.jpeg" #profile.png
   bio              : "PhD Candidate in the Department of Political Science at Yale University"
   location         : "Brooklyn, New York"
   employer         : 
