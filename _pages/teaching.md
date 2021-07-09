@@ -5,6 +5,32 @@ title: "Teaching Fellow Experience at Yale"
 
 ## Lab Section Leader
 
+### Visualizing Political and Social Data. Alexander Coppock.
+
+An interdisciplinary undergraduate and graduate course covering the foundations of data visualization theory as well as an introduction to R for data visualization. Conducted online in Fall 2020.
+
+<details>
+  <summary>Student Evaluations</summary>
+  <ul>
+    <li>Overall assessment:</li>
+    <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc349_sm.png" width="400" />
+    <li>Selected student feedback:</li>
+    <blockquote>
+    <q>Hikaru did really well with a very tough job to try to teach us a lot of coding in a very short period of time. She is also kind and easily reachable.</q>
+    </blockquote>
+
+    <blockquote>
+    <q>strengths: code was very detailed and answered questions clearly, facilitated discussions and kept us engaged, availability outside of class (office hours, email, piazza) weaknesses: nothing at this time</q>
+    </blockquote>
+
+    <blockquote>
+    <q>Hikaru is a lifesaver! She was always happy to meet outside of section to go over issues with code and the class in general and she was really good at explaining some of the nuances of the code to someone who is not familiar with R at all.</q>
+    </blockquote>
+
+    <li>See <a href="https://hikaruyamagishi.github.io/teaching/202009-teaching">student evaluations in full</a>.</li>
+  </ul>
+</details>
+
 ### Quantitative Methods II: Foundations of Statistical Inference. Fredrik Sävje.
 
 The second course in the graduate-level quantitative methods training sequence in the political science department. The materials covered the theoretical foundations of statistical inference as well as an introduction to R for data analysis. Conducted in person in Spring 2019.
@@ -32,31 +58,6 @@ The second course in the graduate-level quantitative methods training sequence i
   </ul>
 </details>
 
-### Visualizing Political and Social Data. Alexander Coppock.
-
-An interdisciplinary undergraduate and graduate course covering the foundations of data visualization theory as well as an introduction to R for data visualization. Conducted online in Fall 2020.
-
-<details>
-  <summary>Student Evaluations</summary>
-  <ul>
-    <li>Overall assessment:</li>
-    <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc349_sm.png" width="400" />
-    <li>Selected student feedback:</li>
-    <blockquote>
-    <q>Hikaru did really well with a very tough job to try to teach us a lot of coding in a very short period of time. She is also kind and easily reachable.</q>
-    </blockquote>
-
-    <blockquote>
-    <q>strengths: code was very detailed and answered questions clearly, facilitated discussions and kept us engaged, availability outside of class (office hours, email, piazza) weaknesses: nothing at this time</q>
-    </blockquote>
-
-    <blockquote>
-    <q>Hikaru is a lifesaver! She was always happy to meet outside of section to go over issues with code and the class in general and she was really good at explaining some of the nuances of the code to someone who is not familiar with R at all.</q>
-    </blockquote>
-
-    <li>See <a href="https://hikaruyamagishi.github.io/teaching/202009-teaching">student evaluations in full</a>.</li>
-  </ul>
-</details>
 
 
 ## Discussion Leader, Grader or Course Manager
