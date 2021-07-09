@@ -12,7 +12,7 @@ The second course in the graduate-level quantitative methods training sequence i
 <details>
   <summary>Student Evaluations</summary>
   <ul>
-    <li>Overall assessment on a 5-point scale:</li>
+    <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc503_sm.png" width="400" />
     <li>Selected student feedback:</li>
 
@@ -39,7 +39,7 @@ An interdisciplinary undergraduate and graduate course covering the foundations 
 <details>
   <summary>Student Evaluations</summary>
   <ul>
-    <li>Overall assessment on a 5-point scale:</li>
+    <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc349_sm.png" width="400" />
     <li>Selected student feedback:</li>
     <blockquote>
@@ -90,7 +90,7 @@ An undergraduate and Global Affairs course on capitalism in America. I led discu
 <details>
   <summary>Student Evaluations</summary>
   <ul>
-    <li>Overall assessment on a 5-point scale:</li>
+    <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc270_sm.png" width="400" />
     <li>Selected student feedback:</li>
 
@@ -116,7 +116,7 @@ An introductory IPE course for undergraduates and Global Affairs students. I was
 <details>
   <summary>Student Evaluations</summary>
   <ul>
-    <li>Overall assessment on a 5-point scale:</li>
+    <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc186_sm.png" width="400" />
     <li>Selected student feedback:</li>
 
