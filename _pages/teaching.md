@@ -7,7 +7,7 @@ title: "Teaching Fellow Experience at Yale"
 
 ### Quantitative Methods II: Foundations of Statistical Inference. Fredrik Sävje.
 
-A graduate course conducted in person in Spring 2019. The second course in the quantitative methods training sequence in the political science department. The materials covered the foundations of statistical inference as well as an introduction to R and RStudio.
+A graduate course conducted in person in Spring 2019. The second course in the quantitative methods training sequence in the political science department. The materials covered the theoretical foundations of statistical inference as well as an introduction to R and RStudio.
 
 <details>
   <summary>Student Evaluations</summary>
