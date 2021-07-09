@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Political Science at Yale University studying comparative politics and comparative political economy. I have a special interest in Japan, where I am able to examine various realizations of my core theoretical interest, economic and political market failure. My dissertation explores the causes and consequences of one such example in the context of political party competition: problems of opposition coordination. My research is multi-method.
+I am a Ph.D. Candidate in Political Science at Yale University studying comparative politics and comparative political economy. I have a special interest in Japan, where I am able to examine various realizations of my foundational theoretical interest, economic and political market failure. My dissertation explores the causes and consequences of one such example in the context of political party competition: problems of opposition coordination. My research is multi-method.
 
 My work is supported by the [Japan Foundation Center for Global Partnership](https://www.cgp.org/), [Whitney and Betty MacMillan Center for International and Area Studies at Yale](https://macmillan.yale.edu/), and the [Council on East Asian Studies at Yale University](https://ceas.yale.edu/).
 
