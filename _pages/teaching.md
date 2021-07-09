@@ -3,34 +3,7 @@ permalink: /teaching/
 title: "Teaching Fellow Experience at Yale"
 ---
 
-## Lab/discussion section leader
-
-### Visualizing Political and Social Data. Alexander Coppock.
-
-An interdisciplinary undergraduate and graduate course conducted online in Fall 2020. The materials covered the foundations of data visualization theory as well as an introduction to R and RStudio.
-
-<details>
-  <summary>Student Evaluations</summary>
-  <ul>
-    <li>Overall assessment on a 5-point scale:</li>
-    <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc503_sm.png" width="400" />
-    <li>Selected student feedback:</li>
-    <blockquote>
-    <q>Hikaru did really well with a very tough job to try to teach us a lot of coding in a very short period of time. She is also kind and easily reachable.</q>
-    </blockquote>
-
-    <blockquote>
-    <q>strengths: code was very detailed and answered questions clearly, facilitated discussions and kept us engaged, availability outside of class (office hours, email, piazza) weaknesses: nothing at this time</q>
-    </blockquote>
-
-    <blockquote>
-    <q>Hikaru is a lifesaver! She was always happy to meet outside of section to go over issues with code and the class in general and she was really good at explaining some of the nuances of the code to someone who is not familiar with R at all.</q>
-    </blockquote>
-
-    <li>See <a href="https://hikaruyamagishi.github.io/teaching/202009-teaching">student evaluations in full</a>.</li>
-  </ul>
-</details>
-
+## Lab section leader
 
 ### Quantitative Methods II: Foundations of Statistical Inference. Fredrik Sävje.
 
@@ -59,6 +32,57 @@ A graduate course conducted in person in Spring 2019. The second course in the q
   </ul>
 </details>
 
+### Visualizing Political and Social Data. Alexander Coppock.
+
+An interdisciplinary undergraduate and graduate course conducted online in Fall 2020. The materials covered the foundations of data visualization theory as well as an introduction to R and RStudio.
+
+<details>
+  <summary>Student Evaluations</summary>
+  <ul>
+    <li>Overall assessment on a 5-point scale:</li>
+    <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc503_sm.png" width="400" />
+    <li>Selected student feedback:</li>
+    <blockquote>
+    <q>Hikaru did really well with a very tough job to try to teach us a lot of coding in a very short period of time. She is also kind and easily reachable.</q>
+    </blockquote>
+
+    <blockquote>
+    <q>strengths: code was very detailed and answered questions clearly, facilitated discussions and kept us engaged, availability outside of class (office hours, email, piazza) weaknesses: nothing at this time</q>
+    </blockquote>
+
+    <blockquote>
+    <q>Hikaru is a lifesaver! She was always happy to meet outside of section to go over issues with code and the class in general and she was really good at explaining some of the nuances of the code to someone who is not familiar with R at all.</q>
+    </blockquote>
+
+    <li>See <a href="https://hikaruyamagishi.github.io/teaching/202009-teaching">student evaluations in full</a>.</li>
+  </ul>
+</details>
+
+
+## Discussion Leader, Grader or Course Manager
+
+### Debating Globalization. Ernesto Zedillo.
+
+An undergraduate and graduate seminar in Spring 2020. I was a grader with office hours, and assisted with the transition from in-person to online as the school closed due to the pandemic.
+
+<details>
+  <summary>Student Evaluations</summary>
+  <ul>
+    <p>No responses collected by Yale.</p>
+  </ul>
+</details>
+
+### Theory of Statistics. Zhou Fan.
+
+An undergraduate and graduate course in Spring 2020. I was the course manager for this large statistics course and assisted with the transition from in-person to online as the school closed due to the pandemic.
+
+<details>
+  <summary>Student Evaluations</summary>
+  <ul>
+    <p>No responses collected by Yale.</p>
+  </ul>
+</details>
+
 ### Capitalism in America. Douglas Rae.
 
 An undergraduate and graduate course conducted in person in Fall 2019. I led discussions and graded.
@@ -84,33 +108,6 @@ An undergraduate and graduate course conducted in person in Fall 2019. I led dis
     <li>See <a href="https://hikaruyamagishi.github.io/teaching/201909-teaching">student evaluations in full</a>.</li>
   </ul>
 </details>
-
-
-## Grader or course manager
-
-
-### Debating Globalization. Ernesto Zedillo.
-
-An undergraduate and graduate seminar in Spring 2020. I was a grader with office hours, and assisted with the transition from in-person to online as the school closed due to the pandemic.
-
-<details>
-  <summary>Student Evaluations</summary>
-  <ul>
-    <p>No responses collected by Yale.</p>
-  </ul>
-</details>
-
-### Theory of Statistics. Zhou Fan.
-
-An undergraduate and graduate course in Spring 2020. I was the course manager for this large statistics course and assisted with the transition from in-person to online as the school closed due to the pandemic.
-
-<details>
-  <summary>Student Evaluations</summary>
-  <ul>
-    <p>No responses collected by Yale.</p>
-  </ul>
-</details>
-
 
 ### Introduction to International Political Economy. Didac Queralt.
 
