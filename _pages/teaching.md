@@ -3,11 +3,11 @@ permalink: /teaching/
 title: "Teaching Fellow Experience at Yale"
 ---
 
-## Lab section leader
+## Lab Section Leader
 
 ### Quantitative Methods II: Foundations of Statistical Inference. Fredrik Sävje.
 
-A graduate course conducted in person in Spring 2019. The second course in the quantitative methods training sequence in the political science department. The materials covered the theoretical foundations of statistical inference as well as an introduction to R and RStudio.
+A graduate course conducted in person in Spring 2019. The second course in the quantitative methods training sequence in the political science department. The materials covered the theoretical foundations of statistical inference as well as an introduction to R for data analysis.
 
 <details>
   <summary>Student Evaluations</summary>
@@ -34,7 +34,7 @@ A graduate course conducted in person in Spring 2019. The second course in the q
 
 ### Visualizing Political and Social Data. Alexander Coppock.
 
-An interdisciplinary undergraduate and graduate course conducted online in Fall 2020. The materials covered the foundations of data visualization theory as well as an introduction to R and RStudio.
+An interdisciplinary undergraduate and graduate course conducted online in Fall 2020. The materials covered the foundations of data visualization theory as well as an introduction to R for data visualization. 
 
 <details>
   <summary>Student Evaluations</summary>
