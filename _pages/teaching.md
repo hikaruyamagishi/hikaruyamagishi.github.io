@@ -85,7 +85,7 @@ An undergraduate and graduate statistics course. I was the course manager for th
 
 ### Capitalism in America. Douglas Rae.
 
-An undergraduate and Global Affairs course on capitalism in America. I led discussions and graded. Conducted in person in Fall 2019.
+An undergraduate and Global Affairs course investigating theories of capitalism and its critics, grounded in the US context. I led discussions and graded. Conducted in person in Fall 2019.
 
 <details>
   <summary>Student Evaluations</summary>
