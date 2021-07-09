@@ -7,7 +7,7 @@ title: "Teaching Fellow Experience at Yale"
 
 ### Quantitative Methods II: Foundations of Statistical Inference. Fredrik Sävje.
 
-A graduate course conducted in person in Spring 2019. The second course in the quantitative methods training sequence in the political science department. The materials covered the theoretical foundations of statistical inference as well as an introduction to R for data analysis.
+The second course in the graduate-level quantitative methods training sequence in the political science department. The materials covered the theoretical foundations of statistical inference as well as an introduction to R for data analysis. Conducted in person in Spring 2019.
 
 <details>
   <summary>Student Evaluations</summary>
@@ -34,7 +34,7 @@ A graduate course conducted in person in Spring 2019. The second course in the q
 
 ### Visualizing Political and Social Data. Alexander Coppock.
 
-An interdisciplinary undergraduate and graduate course conducted online in Fall 2020. The materials covered the foundations of data visualization theory as well as an introduction to R for data visualization.
+An interdisciplinary undergraduate and graduate course covering the foundations of data visualization theory as well as an introduction to R for data visualization. Conducted online in Fall 2020.
 
 <details>
   <summary>Student Evaluations</summary>
@@ -63,7 +63,7 @@ An interdisciplinary undergraduate and graduate course conducted online in Fall 
 
 ### Debating Globalization. Ernesto Zedillo.
 
-An undergraduate and graduate seminar in Spring 2020. I was a grader with office hours, and assisted with the transition from in-person to online as the school closed due to the pandemic.
+An undergraduate and Global Affairs seminar on globalization. I was a grader with office hours. Conducted in person and online in Spring 2020.
 
 <details>
   <summary>Student Evaluations</summary>
@@ -74,7 +74,7 @@ An undergraduate and graduate seminar in Spring 2020. I was a grader with office
 
 ### Theory of Statistics. Zhou Fan.
 
-An undergraduate and graduate course in Spring 2020. I was the course manager for this large statistics course and assisted with the transition from in-person to online as the school closed due to the pandemic.
+An undergraduate and graduate statistics course. I was the course manager for this large course. Conducted in person and online in Spring 2020.
 
 <details>
   <summary>Student Evaluations</summary>
@@ -85,7 +85,7 @@ An undergraduate and graduate course in Spring 2020. I was the course manager fo
 
 ### Capitalism in America. Douglas Rae.
 
-An undergraduate and graduate course conducted in person in Fall 2019. I led discussions and graded.
+An undergraduate and Global Affairs course on capitalism in America. I led discussions and graded. Conducted in person in Fall 2019.
 
 <details>
   <summary>Student Evaluations</summary>
@@ -111,7 +111,7 @@ An undergraduate and graduate course conducted in person in Fall 2019. I led dis
 
 ### Introduction to International Political Economy. Didac Queralt.
 
-An undergraduate and graduate course conducted in person in Fall 2018. I was a grader with office hours and guest lectured.
+An introductory IPE course for undergraduates and Global Affairs students. I was a grader with office hours and guest-lectured on financial systems and international finance. Conducted in person in Fall 2018.
 
 <details>
   <summary>Student Evaluations</summary>
