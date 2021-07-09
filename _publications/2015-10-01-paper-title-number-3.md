@@ -1,6 +1,0 @@
----
-title: "The Logic of Soft Power Competition: Evidence from East Asia"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-citation: 'with Changwook Ju, Daniel Mattingly, Colin Moreshead, Frances McCall Rosenbluth, and Seiki Tanaka'
----
