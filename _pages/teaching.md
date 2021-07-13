@@ -23,10 +23,6 @@ An interdisciplinary undergraduate and graduate course covering the foundations 
     <q>strengths: code was very detailed and answered questions clearly, facilitated discussions and kept us engaged, availability outside of class (office hours, email, piazza) weaknesses: nothing at this time</q>
     </blockquote>
 
-    <blockquote>
-    <q>Hikaru is a lifesaver! She was always happy to meet outside of section to go over issues with code and the class in general and she was really good at explaining some of the nuances of the code to someone who is not familiar with R at all.</q>
-    </blockquote>
-
     <li>See <a href="https://hikaruyamagishi.github.io/teaching/202009-teaching">student evaluations in full</a>.</li>
   </ul>
 </details>
@@ -47,11 +43,7 @@ The second course in the graduate-level quantitative methods training sequence i
     </blockquote>
 
     <blockquote>
-    <q>Hikaru is very good at responding to emailed queries. She obviously prepares intensively for each section.</q>
-    </blockquote>
-
-    <blockquote>
-    <q>Hikaru - I really appreciated how organized you were in section and how you always made sure everyone was on the same page.</q>
+    <q>Exceptional TF</q>
     </blockquote>
 
     <li>See <a href="https://hikaruyamagishi.github.io/teaching/201901-teaching">student evaluations in full</a>.</li>
@@ -103,9 +95,6 @@ An undergraduate and Global Affairs course investigating theories of capitalism 
     <q>Hikaru was accessible and helpful during office hours and helped to facilitate conversation through the breakout sessions led by prompting engagement and sharing her own perspectives.</q>
     </blockquote>
 
-    <blockquote>
-    <q>She added to the material discussed in class.</q>
-    </blockquote>
     <li>See <a href="https://hikaruyamagishi.github.io/teaching/201909-teaching">student evaluations in full</a>.</li>
   </ul>
 </details>
@@ -123,10 +112,6 @@ An introductory IPE course for undergraduates and Global Affairs students. I was
 
     <blockquote>
     <q>Great TA! She was very helpful and knowledgeable. Her background in finance provided and unique perspective on financial systems.</q>
-    </blockquote>
-
-    <blockquote>
-    <q>Extremely accessible and helpful at explaining difficult concepts</q>
     </blockquote>
 
     <blockquote>
