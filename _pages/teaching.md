@@ -39,7 +39,7 @@ The second course in the graduate-level quantitative methods training sequence i
     <li>Selected student feedback:</li>
 
     <blockquote>
-    <q>Hikaru is a very friendly and patient TF. She is always open for any kind of questions, and she even took her time to set up some softwares on students' laptops.</q>
+    <q>Hikaru - I really appreciated how organized you were in section and how you always made sure everyone was on the same page.</q>
     </blockquote>
 
     <blockquote>
