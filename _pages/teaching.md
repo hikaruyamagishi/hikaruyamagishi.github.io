@@ -10,7 +10,7 @@ title: "Teaching Fellow Experience at Yale"
 An interdisciplinary undergraduate and graduate course covering the foundations of data visualization theory as well as an introduction to R for data visualization. Conducted online in Fall 2020.
 
 <details>
-  <summary>Student Evaluations</summary>
+  <summary>Anonymous Student Evaluations (collected by Yale)</summary>
   <ul>
     <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc349_sm.png" width="400" />
@@ -36,7 +36,7 @@ An interdisciplinary undergraduate and graduate course covering the foundations 
 The second course in the graduate-level quantitative methods training sequence in the political science department. The materials covered the theoretical foundations of statistical inference as well as an introduction to R for data analysis. Conducted in person in Spring 2019.
 
 <details>
-  <summary>Student Evaluations</summary>
+  <summary>Anonymous Student Evaluations (collected by Yale)</summary>
   <ul>
     <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc503_sm.png" width="400" />
@@ -67,7 +67,7 @@ The second course in the graduate-level quantitative methods training sequence i
 An undergraduate and Global Affairs seminar on globalization. I was a grader with office hours. Conducted in person and online in Spring 2020.
 
 <details>
-  <summary>Student Evaluations</summary>
+  <summary>Anonymous Student Evaluations (collected by Yale)</summary>
   <ul>
     <p>No responses collected by Yale.</p>
   </ul>
@@ -78,7 +78,7 @@ An undergraduate and Global Affairs seminar on globalization. I was a grader wit
 An undergraduate and graduate statistics course. I was the course manager for this large course. Conducted in person and online in Spring 2020.
 
 <details>
-  <summary>Student Evaluations</summary>
+  <summary>Anonymous Student Evaluations (collected by Yale)</summary>
   <ul>
     <p>No responses collected by Yale.</p>
   </ul>
@@ -89,7 +89,7 @@ An undergraduate and graduate statistics course. I was the course manager for th
 An undergraduate and Global Affairs course investigating theories of capitalism and its critics, grounded in the US context. I led discussions and graded. Conducted in person in Fall 2019.
 
 <details>
-  <summary>Student Evaluations</summary>
+  <summary>Anonymous Student Evaluations (collected by Yale)</summary>
   <ul>
     <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc270_sm.png" width="400" />
@@ -115,7 +115,7 @@ An undergraduate and Global Affairs course investigating theories of capitalism 
 An introductory IPE course for undergraduates and Global Affairs students. I was a grader with office hours and guest-lectured on financial systems and international finance. Conducted in person in Fall 2018.
 
 <details>
-  <summary>Student Evaluations</summary>
+  <summary>Anonymous Student Evaluations (collected by Yale)</summary>
   <ul>
     <li>Overall assessment:</li>
     <img src="http://hikaruyamagishi.github.io/files/teaching_eval/yamagishi_eval_plsc186_sm.png" width="400" />
