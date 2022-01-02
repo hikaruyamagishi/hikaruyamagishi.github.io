@@ -29,15 +29,15 @@ _Inside the Revolving Door: Government-Business Relations in Contemporary Japan_
 
 “Do Firms Benefit from the Revolving Door? Evidence from Japan,” with Trevor Incerti.
 
-“Amakudata: A Dataset of Bureaucratic Revolving Door Hires,” and accompanying online dashboard, Amakudashboard ([link](https://trevorincerti.shinyapps.io/amakudashboard/)), with Trevor Incerti, Sayumi Miyano, and Diana Stanescu.
+“Amakudata: A Dataset of Bureaucratic Revolving Door Hires,” and accompanying online dashboard, _Amakudashboard_ ([link](https://trevorincerti.shinyapps.io/amakudashboard/)), with Trevor Incerti, Sayumi Miyano, and Diana Stanescu.
 
-“Figurines and Doyennes: The Selection of Female Ministers in Autocracies and Democracies,” with Jacob Nyrup and Stuart Bramwell. (under review)
+“Figurines and Doyennes: The Selection of Female Ministers in Autocracies and Democracies,” with Jacob Nyrup and Stuart Bramwell. (Under review)
 
 “Does Equalizing Household Work Affect Women’s Political Preferences? Evidence from a Field Experiment in Japan,” with Trevor Incerti, Changwook Ju, and Colin Moreshead.
 
 “Selling Japan: Does Political Messaging to Foreign Publics Increase Political and Economic Consumption?,” with Trevor Incerti, Changwook Ju, Dan Mattingly, Colin Moreshead, Frances McCall Rosenbluth, and Seiki Tanaka.
 
-“The Logic of Soft Power Competition: Evidence from East Asia,” with Trevor Incerti, Changwook Ju, Dan Mat- tingly, Colin Moreshead, Frances McCall Rosenbluth, and Seiki Tanaka.
+“The Logic of Soft Power Competition: Evidence from East Asia,” with Trevor Incerti, Changwook Ju, Dan Mattingly, Colin Moreshead, Frances McCall Rosenbluth, and Seiki Tanaka.
 
 “Democratic and Autocratic Soft Power: Global Perceptions of American and Chinese Political Appeals,” with Trevor Incerti, Changwook Ju, Dan Mattingly, Colin Moreshead, Frances McCall Rosenbluth, and Seiki Tanaka.
 
