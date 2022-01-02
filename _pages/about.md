@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Political Science at Yale University studying comparative politics and comparative political economy. I have a special interest in Japan, where I examine various instances of economic and political market inefficiency and failure. My dissertation explores the causes and consequences of one such example in the context of political party competition: problems of opposition coordination. My research is multi-method.
+I am a Ph.D. Candidate in Political Science at Yale University and an East Asian Studies Prize Fellow at The Whitney and Betty MacMillan Center for International and Area Studies at Yale. My research in comparative political economy and comparative politics focuses on how political institutions and post-industrial forces shape domestic political competition in advanced industrialized countries, with a special interest in the case of Japan. My research methods mix qualitative and quantitative strategies. In my dissertation, I combine methods such as direct observation, interviews, and survey experiments to examine patterns of democratic representation in contemporary Japan. 
 
 My work is supported by the [Japan Foundation Center for Global Partnership](https://www.cgp.org/), the [Council on East Asian Studies at Yale University](https://ceas.yale.edu/), and the [Whitney and Betty MacMillan Center for International and Area Studies at Yale](https://macmillan.yale.edu/).
 
