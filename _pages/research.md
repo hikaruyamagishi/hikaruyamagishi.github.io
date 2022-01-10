@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Hutchinson, Annabelle, Elizabeth K. McGuire, Frances McCall Rosenbluth, and Hikaru Yamagishi. "The Political Economy of Gender." _Oxford Research Encyclopedia of Politics_. 30. Oxford University Press. ([link](https://doi.org/10.1093/acrefore/9780190228637.013.616))
+Hutchinson, Annabelle, Elizabeth K. McGuire, Frances McCall Rosenbluth, and Hikaru Yamagishi. "The Political Economy of Gender." _Oxford Research Encyclopedia of Politics_. 2018. Oxford University Press. ([link](https://doi.org/10.1093/acrefore/9780190228637.013.616))
 
 
 ## Book Manuscripts in Progress
@@ -49,4 +49,4 @@ _Inside the Revolving Door: Government-Business Relations in Contemporary Japan_
 
 ## Other Publications
 
-“The Blocked Road to a Woman Prime Minister in Japan,” with Charles Crabtree and Yoshikuni Ono, The Hill, October 12, 2021. ([link](https://thehill.com/opinion/international/575875-the-blocked-road-to-a-woman-prime-minister-in-japan))
+“The Blocked Road to a Woman Prime Minister in Japan,” with Charles Crabtree and Yoshikuni Ono, _The Hill_, October 12, 2021. ([link](https://thehill.com/opinion/international/575875-the-blocked-road-to-a-woman-prime-minister-in-japan))
