@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Research Fellow at the [Program on U.S.-Japan Relations at Harvard University's Weatherhead Center for International Affairs](https://programs.wcfia.harvard.edu/us-japan/people/people-categories/2022–23).
 
-My research focuses on the causes and consequences of democratic party competition, with a focus on comparative political economy and the case of Japan. My research methods mix qualitative and quantitative strategies. In my dissertation, I combine methods such as direct observation, interviews, and survey experiments to examine patterns of democratic representation.
+My research focuses on the causes and consequences of democratic party competition, with a special  interest in comparative political economy and the case of Japan. My research methods mix qualitative and quantitative strategies. In my dissertation, I combine methods such as direct observation, interviews, and survey experiments to examine patterns of democratic representation.
 
 My work is supported by the [Program on U.S.-Japan Relations at Harvard](https://programs.wcfia.harvard.edu/us-japan/home), [Japan Foundation Center for Global Partnership](https://www.cgp.org/), the [Council on East Asian Studies at Yale University](https://ceas.yale.edu/), the [Whitney and Betty MacMillan Center for International and Area Studies at Yale](https://macmillan.yale.edu/).
 
