@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at the [Program on U.S.-Japan Relations at Harvard University's Weatherhead Center for International Affairs](https://programs.wcfia.harvard.edu/us-japan/people/people-categories/2022–23). I am also affiliated with the [Weatherhead Research Cluster on Business and Government](https://wcfia.harvard.edu/weatherhead-clusters/22-business-and-government).
+I am a Postdoctoral Research Fellow at the [Program on U.S.-Japan Relations at Harvard University's Weatherhead Center for International Affairs](https://programs.wcfia.harvard.edu/us-japan/people/people-categories/2022–23) and an affiliate at the [Weatherhead Research Cluster on Business and Government](https://projects.iq.harvard.edu/wrc22-business-and-government).
 
-My research focuses on the causes and consequences of political party competition, with a special  interest in the case of Japan. My research mixes qualitative and quantitative strategies, combining methods such as direct observation, interviews, historical analysis, and survey experiments. 
+My research focuses on democratic institutions and electoral competition, with a special interest in the case of Japan. My current work examines representative consequences such as one-party dominance in Japan and [gender balance in cabinets](https://dx.doi.org/10.2139/ssrn.4052720) (R\&R with minor revisions at the _American Political Science Review_), as well as political economy outcomes such as ties between business and government. I apply a mix qualitative and quantitative methods, combining strategies such as direct observation, interviews, historical analysis, experimental designs, and statistical methods.
+%I have been particularly interested in the measurement of phenomena often developed in Western political science in non-U.S. contexts.
 
 My work is supported by the [Program on U.S.-Japan Relations at Harvard](https://programs.wcfia.harvard.edu/us-japan/home), [Asia Society](https://asiasociety.org/), the [Japan Foundation Center for Global Partnership](https://www.cgp.org/), the [Council on East Asian Studies at Yale University](https://ceas.yale.edu/), and the [Whitney and Betty MacMillan Center for International and Area Studies at Yale](https://macmillan.yale.edu/).
 

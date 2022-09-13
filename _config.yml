@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hikaru Yamagishi"
   avatar           : "yamagishi.png" #profile.png
-  bio              : "Ph.D. Candidate in Political Science at Yale University"
+  bio              : "Postdoctoral Fellow at Harvard University"
   location         : "New York/Tokyo"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : hikaru.yamagishi@yale.edu
+  email            : hikaruyamagishi@fas.harvard.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
