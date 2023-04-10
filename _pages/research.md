@@ -48,7 +48,7 @@ _Electoral Dominance in Economic Stagnation: The Political Economy of Contempora
 _Inside the Revolving Door: Government-Business Relations in Contemporary Japan_, with Trevor Incerti.
 
 
-## Other Publications
+## Media Publications
 
 “The Blocked Road to a Woman Prime Minister in Japan,” with Charles Crabtree and Yoshikuni Ono, _The Hill_, October 12, 2021. ([link](https://thehill.com/opinion/international/575875-the-blocked-road-to-a-woman-prime-minister-in-japan))
 
