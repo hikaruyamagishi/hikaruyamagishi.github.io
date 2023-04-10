@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-“Consolidating Progress: The Selection of Female Ministers in Autocracies and Democracies,” with Jacob Nyrup and Stuart Bramwell. (Forthcoming, _American Political Science Review_) ([link](https://dx.doi.org/10.2139/ssrn.4052720) to earlier draft)
+“Consolidating Progress: The Selection of Female Ministers in Autocracies and Democracies,” with Jacob Nyrup and Stuart Bramwell. American Political Science Review, _forthcoming_. ([link](https://dx.doi.org/10.2139/ssrn.4052720) to earlier draft)
 
 Amano, Kenya, Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, Trevor Incerti, Jinhyuk Jang, Charles T. McClean, Austin M. Mitchell, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, Yujin Woo, and Charles Crabtree. 2022. "Field Research When There Is Limited Access to the Field: Lessons from Japan." PS: Political Science & Politics: 1-7. ([link](https://doi.org/10.1017/S1049096522000932))
 
