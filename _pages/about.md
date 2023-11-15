@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the [Japan Program at Stanford University's Shorenstein Asia-Pacific Research Center](https://aparc.fsi.stanford.edu/japan).
+I am a Postdoctoral Fellow at the [Japan Program](https://aparc.fsi.stanford.edu/japan) at Stanford University's Shorenstein Asia-Pacific Research Center.
 
 My research focuses on democratic institutions and electoral competition, primarily within frameworks of comparative politics and comparative political economy. I am interested in how democratic institutions, shaping individual incentives through the contours defined by the rules of the game, influence representational and economic outcomes. My most recently published work shows how the historical accumulation of experience with democracy contributes to greater gender balance in cabinets (with Jacob Nyrup and Stuart Bramwell, _American Political Science Review_).
 
